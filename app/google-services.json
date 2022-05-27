@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904870502460",
+    "project_id": "fcm-server-vtjj",
+    "storage_bucket": "fcm-server-vtjj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904870502460:android:4e53b6e9b43c76a851e339",
+        "android_client_info": {
+          "package_name": "net.yisus.fcmserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904870502460-m8bn2d9q3hqtrlapk2gpl1243nb18fln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqBjY8lOMTreGMikkj0SjZa3Qt2c6qWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904870502460-m8bn2d9q3hqtrlapk2gpl1243nb18fln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
